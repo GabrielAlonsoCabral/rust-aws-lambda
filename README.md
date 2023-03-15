@@ -1,4 +1,4 @@
-# rust-mongodb-backup
+# rust-serverless-aws
   Rust application serverless using AWS Lambda.  
 
   Developed by: <a href="https://www.github.com/gabrielAlonsoCabral">@GabrielAlonsoCabral</a>  
